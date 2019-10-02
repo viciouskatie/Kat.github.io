@@ -25,18 +25,18 @@
   <div id="technical-doc-writing">
     <section class="main-section" id="who_is_kat?">
       <header>Who is Kat?</header>
-      <p>Whom am I? I am me, also known as Katharine or Kat for short. I am an entry web developer looking for some projects to complete and expand my portfolio. Based remotely in Oklahoma City. I am proficient in HTML and CSS.</p>
+      <p>Whom am I? I am me, also known as Katharine or Kat for short. I am a web developer looking for some projects to complete and expand my portfolio. Based remotely in Oklahoma City. I am proficient in HTML and CSS.</p>
     </section>
     
     <section class="main-section" id="projects">
      <header>Projects</header>
          
-<p><pre><code><a class="main-section" id="survey" href="https://codepen.io/viciouskatie/full/RXazMP">Survey Page<iframe src="https://codepen.io/viciouskatie/full/RXazMP" class="no-hover" frameborder="0" scrolling="no" sandbox="allow-scripts allow-pointer-lock allow-same-origin" tabindex="-1"></iframe></a>
+<pre><code><a class="main-section" id="survey" href="https://codepen.io/viciouskatie/full/RXazMP">Survey Page<iframe src="https://codepen.io/viciouskatie/full/RXazMP" class="no-hover" frameborder="0" scrolling="no" sandbox="allow-scripts allow-pointer-lock allow-same-origin" tabindex="-1"></iframe></a>
 
 <a class="main-section" id="tribute" href= "https://codepen.io/viciouskatie/full/wVKZGQ">Tribute Page<iframe src="https://codepen.io/viciouskatie/full/wVKZGQ" class="no-hover" frameborder="0" scrolling="no" sandbox="allow-scripts allow-pointer-lock allow-same-origin" tabindex="-1"></iframe></a>
 
 <a class="main-section" id="random" href= "https://codepen.io/viciouskatie/full/rXjbGJ">
-Random Page<iframe src="https://codepen.io/viciouskatie/full/rXjbGJ" class="no-hover" frameborder="0" scrolling="no" sandbox="allow-scripts allow-pointer-lock allow-same-origin" tabindex="-1"></iframe></a></p></code></pre>
+Random Page<iframe src="https://codepen.io/viciouskatie/full/rXjbGJ" class="no-hover" frameborder="0" scrolling="no" sandbox="allow-scripts allow-pointer-lock allow-same-origin" tabindex="-1"></iframe></a></code></pre>
     
 <section class="main-section">
 <p><pre><code>"True evil is, above all things, seductive. When the Devil knocks at your door, he doesn't have cloven hooves. He is beautiful, and offers you your heart's desire in whispered airs. Like a siren, beckoning you to ruinous shore."
@@ -50,9 +50,11 @@ Random Page<iframe src="https://codepen.io/viciouskatie/full/rXjbGJ" class="no-h
         
 <ul>
   <li><a href="https://codepen.io/viciouskatie/" target=_blank>FreeCodeCamp<i class="fab fa-free-code-camp fa-lg"></i></li></a>
+
   <li><a href="https://www.facebook.com/katharin3" target=_blank>Facebook<i class="fab fa-facebook fa-lg"></i></li></a>
+
 <li><a href="https://viciouskatie.github.io" target=_blank>Github<i class="fab fa-github-square fa-lg"></i></li></a></ul>
-</p>
+
     </section>
    </div>
   </div>
