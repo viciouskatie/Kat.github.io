@@ -18,22 +18,31 @@
     <div class="item3">
       Web Developer
     </div>
-    <script src="https://kit.fontawesome.com/1b49d7e787.js">                          </script>
+
+    <script src="https://kit.fontawesome.com/1b49d7e787.js">
+    </script>
     <div class="item4">
-      <i class="fas fa-map-marker-alt"> 4321 Street Ave<br> City, ST 54321</i>
+      <i class="fas fa-map-marker-alt"> 4321 Street Ave<br> City, ST 54321
+      </i>
     </div>
 
     <div class="item5">
-      <i class="fas fa-envelope"> address@email.com</i>
+      <i class="fas fa-envelope"> address@email.com
+      </i>
     </div>
 
     <div class="item6">
-      <i class="fas fa-phone-alt"> (123) 456-7890</i>
+      <i class="fas fa-phone-alt"> (123) 456-7890
+      </i>
     </div>
 
     <div class="item7">
-      <i class="fas fa-globe"><a href="https://viciouskatie.github.io"> https://viciouskatie.github.io/</i></div>
-  </div>
+      <a href="https://viciouskatie.github.io">
+      <i class="fas fa-globe">
+         https://viciouskatie.github.io/
+      </i>
+    </a>
+    </div>
   </div>
 
   <div class="sidenav">
@@ -99,7 +108,7 @@
       • NodeJS
       • Javascript
       • React
-      • ​​Postgres Sql
+      • ​Postgres Sql
       • ​Jest Testing
       • ​Express
       • ​Heroku
