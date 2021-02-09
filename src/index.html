@@ -37,9 +37,9 @@
     </div>
 
     <div class="item7">
-      <a href="https://viciouskatie.github.io">
+      <a href="https://kat.github.io">
       <i class="fas fa-globe">
-         https://viciouskatie.github.io/
+         https://kat.github.io/
       </i>
     </a>
     </div>
@@ -83,7 +83,7 @@
         </i>
       </a>
 
-      <a href="https://viciouskatie.github.io" target=_blank class="active">
+      <a href="https://kat.github.io" target=_blank class="active">
         <i class="fab fa-github-square fa-lg">
         </i>
       </a>
